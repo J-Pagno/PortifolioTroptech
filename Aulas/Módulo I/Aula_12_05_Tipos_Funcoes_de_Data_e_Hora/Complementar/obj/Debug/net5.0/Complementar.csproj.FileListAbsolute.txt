@@ -1,0 +1,16 @@
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_12_05\Complementar\bin\Debug\net5.0\Complementar.exe
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_12_05\Complementar\bin\Debug\net5.0\Complementar.deps.json
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_12_05\Complementar\bin\Debug\net5.0\Complementar.runtimeconfig.json
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_12_05\Complementar\bin\Debug\net5.0\Complementar.runtimeconfig.dev.json
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_12_05\Complementar\bin\Debug\net5.0\Complementar.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_12_05\Complementar\bin\Debug\net5.0\ref\Complementar.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_12_05\Complementar\bin\Debug\net5.0\Complementar.pdb
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_12_05\Complementar\obj\Debug\net5.0\Complementar.csproj.AssemblyReference.cache
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_12_05\Complementar\obj\Debug\net5.0\Complementar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_12_05\Complementar\obj\Debug\net5.0\Complementar.AssemblyInfoInputs.cache
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_12_05\Complementar\obj\Debug\net5.0\Complementar.AssemblyInfo.cs
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_12_05\Complementar\obj\Debug\net5.0\Complementar.csproj.CoreCompileInputs.cache
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_12_05\Complementar\obj\Debug\net5.0\Complementar.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_12_05\Complementar\obj\Debug\net5.0\ref\Complementar.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_12_05\Complementar\obj\Debug\net5.0\Complementar.pdb
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_12_05\Complementar\obj\Debug\net5.0\Complementar.genruntimeconfig.cache

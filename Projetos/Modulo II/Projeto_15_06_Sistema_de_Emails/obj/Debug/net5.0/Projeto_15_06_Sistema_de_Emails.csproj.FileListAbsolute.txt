@@ -1,0 +1,16 @@
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_15_06_Sistema_de_Emails\bin\Debug\net5.0\Projeto_15_06_Sistema_de_Emails.exe
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_15_06_Sistema_de_Emails\bin\Debug\net5.0\Projeto_15_06_Sistema_de_Emails.deps.json
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_15_06_Sistema_de_Emails\bin\Debug\net5.0\Projeto_15_06_Sistema_de_Emails.runtimeconfig.json
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_15_06_Sistema_de_Emails\bin\Debug\net5.0\Projeto_15_06_Sistema_de_Emails.runtimeconfig.dev.json
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_15_06_Sistema_de_Emails\bin\Debug\net5.0\Projeto_15_06_Sistema_de_Emails.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_15_06_Sistema_de_Emails\bin\Debug\net5.0\ref\Projeto_15_06_Sistema_de_Emails.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_15_06_Sistema_de_Emails\bin\Debug\net5.0\Projeto_15_06_Sistema_de_Emails.pdb
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_15_06_Sistema_de_Emails\obj\Debug\net5.0\Projeto_15_06_Sistema_de_Emails.csproj.AssemblyReference.cache
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_15_06_Sistema_de_Emails\obj\Debug\net5.0\Projeto_15_06_Sistema_de_Emails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_15_06_Sistema_de_Emails\obj\Debug\net5.0\Projeto_15_06_Sistema_de_Emails.AssemblyInfoInputs.cache
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_15_06_Sistema_de_Emails\obj\Debug\net5.0\Projeto_15_06_Sistema_de_Emails.AssemblyInfo.cs
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_15_06_Sistema_de_Emails\obj\Debug\net5.0\Projeto_15_06_Sistema_de_Emails.csproj.CoreCompileInputs.cache
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_15_06_Sistema_de_Emails\obj\Debug\net5.0\Projeto_15_06_Sistema_de_Emails.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_15_06_Sistema_de_Emails\obj\Debug\net5.0\ref\Projeto_15_06_Sistema_de_Emails.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_15_06_Sistema_de_Emails\obj\Debug\net5.0\Projeto_15_06_Sistema_de_Emails.pdb
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_15_06_Sistema_de_Emails\obj\Debug\net5.0\Projeto_15_06_Sistema_de_Emails.genruntimeconfig.cache

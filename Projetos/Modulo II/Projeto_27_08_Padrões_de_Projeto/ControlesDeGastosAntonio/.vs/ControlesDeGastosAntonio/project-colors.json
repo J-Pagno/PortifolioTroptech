@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "949da9da-325b-4be3-9ea6-1a70a017a62d": {
+      "ProjectGuid": "949da9da-325b-4be3-9ea6-1a70a017a62d",
+      "DisplayName": "AntonioGastos.Domain",
+      "ColorIndex": 0
+    },
+    "4c2035f3-ec33-433a-a4fd-deae967d4942": {
+      "ProjectGuid": "4c2035f3-ec33-433a-a4fd-deae967d4942",
+      "DisplayName": "AntonioGastos.ConsoleApp",
+      "ColorIndex": 1
+    },
+    "3eafe6f5-93aa-4a5d-947b-d9ccba3062c1": {
+      "ProjectGuid": "3eafe6f5-93aa-4a5d-947b-d9ccba3062c1",
+      "DisplayName": "AntonioGastos.Infra.Data",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

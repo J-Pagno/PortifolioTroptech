@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FGUr9+IDdV4gknHEeC+HAw6qiVzIEb7OBwTs0gr3gXoUqpvK7Ogyjj/AVmtkjWkm7uukC3c8YmZ1YFP7KMmuwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaov\\Desktop\\Código\\TropTech\\C#\\Aulas\\Módulo II\\Aula_06_06_Revisao\\Aula_06_06_Revisao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

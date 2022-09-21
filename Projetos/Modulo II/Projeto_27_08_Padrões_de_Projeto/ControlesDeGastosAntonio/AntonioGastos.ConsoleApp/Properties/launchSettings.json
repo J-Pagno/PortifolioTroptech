@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AntonioGastos.ConsoleApp": {
+      "commandName": "Project",
+      "workingDirectory": "bin\\debug"
+    }
+  }
+}

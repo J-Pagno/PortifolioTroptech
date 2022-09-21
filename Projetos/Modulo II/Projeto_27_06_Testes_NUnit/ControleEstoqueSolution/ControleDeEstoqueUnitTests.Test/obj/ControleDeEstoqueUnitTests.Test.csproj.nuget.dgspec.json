@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\joaov\\Desktop\\Código\\TropTech\\C#\\Projetos\\Modulo II\\Projeto_27_06_Testes_NUnit\\ControleEstoqueSolution\\ControleDeEstoqueUnitTests.Test\\ControleDeEstoqueUnitTests.Test.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\joaov\\Desktop\\Código\\TropTech\\C#\\Projetos\\Modulo II\\Projeto_27_06_Testes_NUnit\\ControleEstoqueSolution\\ControleDeEstoqueUnitTests.Test\\ControleDeEstoqueUnitTests.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\joaov\\Desktop\\Código\\TropTech\\C#\\Projetos\\Modulo II\\Projeto_27_06_Testes_NUnit\\ControleEstoqueSolution\\ControleDeEstoqueUnitTests.Test\\ControleDeEstoqueUnitTests.Test.csproj",
+        "projectName": "ControleDeEstoqueUnitTests.Test",
+        "projectPath": "c:\\Users\\joaov\\Desktop\\Código\\TropTech\\C#\\Projetos\\Modulo II\\Projeto_27_06_Testes_NUnit\\ControleEstoqueSolution\\ControleDeEstoqueUnitTests.Test\\ControleDeEstoqueUnitTests.Test.csproj",
+        "packagesPath": "C:\\Users\\joaov\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\joaov\\Desktop\\Código\\TropTech\\C#\\Projetos\\Modulo II\\Projeto_27_06_Testes_NUnit\\ControleEstoqueSolution\\ControleDeEstoqueUnitTests.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\joaov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "c:\\Users\\joaov\\Desktop\\Código\\TropTech\\C#\\Projetos\\Modulo II\\Projeto_27_06_Testes_NUnit\\ControleEstoqueSolution\\ControleEstoque\\ControleEstoque.csproj": {
+                "projectPath": "c:\\Users\\joaov\\Desktop\\Código\\TropTech\\C#\\Projetos\\Modulo II\\Projeto_27_06_Testes_NUnit\\ControleEstoqueSolution\\ControleEstoque\\ControleEstoque.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.17.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\joaov\\Desktop\\Código\\TropTech\\C#\\Projetos\\Modulo II\\Projeto_27_06_Testes_NUnit\\ControleEstoqueSolution\\ControleEstoque\\ControleEstoque.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\joaov\\Desktop\\Código\\TropTech\\C#\\Projetos\\Modulo II\\Projeto_27_06_Testes_NUnit\\ControleEstoqueSolution\\ControleEstoque\\ControleEstoque.csproj",
+        "projectName": "ControleEstoque",
+        "projectPath": "c:\\Users\\joaov\\Desktop\\Código\\TropTech\\C#\\Projetos\\Modulo II\\Projeto_27_06_Testes_NUnit\\ControleEstoqueSolution\\ControleEstoque\\ControleEstoque.csproj",
+        "packagesPath": "C:\\Users\\joaov\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\joaov\\Desktop\\Código\\TropTech\\C#\\Projetos\\Modulo II\\Projeto_27_06_Testes_NUnit\\ControleEstoqueSolution\\ControleEstoque\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\joaov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

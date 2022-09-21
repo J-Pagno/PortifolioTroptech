@@ -1,0 +1,16 @@
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_02_06_Encapsulamento\bin\Debug\net5.0\Aula_02_06_Encapsulamento.exe
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_02_06_Encapsulamento\bin\Debug\net5.0\Aula_02_06_Encapsulamento.deps.json
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_02_06_Encapsulamento\bin\Debug\net5.0\Aula_02_06_Encapsulamento.runtimeconfig.json
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_02_06_Encapsulamento\bin\Debug\net5.0\Aula_02_06_Encapsulamento.runtimeconfig.dev.json
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_02_06_Encapsulamento\bin\Debug\net5.0\Aula_02_06_Encapsulamento.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_02_06_Encapsulamento\bin\Debug\net5.0\ref\Aula_02_06_Encapsulamento.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_02_06_Encapsulamento\bin\Debug\net5.0\Aula_02_06_Encapsulamento.pdb
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_02_06_Encapsulamento\obj\Debug\net5.0\Aula_02_06_Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_02_06_Encapsulamento\obj\Debug\net5.0\Aula_02_06_Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_02_06_Encapsulamento\obj\Debug\net5.0\Aula_02_06_Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_02_06_Encapsulamento\obj\Debug\net5.0\Aula_02_06_Encapsulamento.AssemblyInfo.cs
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_02_06_Encapsulamento\obj\Debug\net5.0\Aula_02_06_Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_02_06_Encapsulamento\obj\Debug\net5.0\Aula_02_06_Encapsulamento.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_02_06_Encapsulamento\obj\Debug\net5.0\ref\Aula_02_06_Encapsulamento.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_02_06_Encapsulamento\obj\Debug\net5.0\Aula_02_06_Encapsulamento.pdb
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_02_06_Encapsulamento\obj\Debug\net5.0\Aula_02_06_Encapsulamento.genruntimeconfig.cache

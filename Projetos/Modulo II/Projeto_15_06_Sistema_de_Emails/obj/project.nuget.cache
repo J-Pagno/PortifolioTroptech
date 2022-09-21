@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0EKqlsEXvKbpLx2bFMUUV3G6IUxVgxFPwQpq6Wd+4uwcAaM+Pl3kMWQ+AC4/9l9BoHuvBCXeTZk3NEdVIL31fw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaov\\Desktop\\Código\\TropTech\\C#\\Projetos\\Modulo II\\Projeto_15_06_Sistema_de_Emails\\Projeto_15_06_Sistema_de_Emails.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

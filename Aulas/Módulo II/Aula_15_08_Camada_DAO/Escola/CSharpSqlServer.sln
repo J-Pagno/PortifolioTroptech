@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpSqlServer.ConsoleApp", "CSharpSqlServer.ConsoleApp\CSharpSqlServer.ConsoleApp.csproj", "{AC76597D-1AE7-48F1-BCBD-B36875844A5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpSqlServer.Classes", "CSharpSqlServer.Classes\CSharpSqlServer.Classes.csproj", "{9B1562A7-5C5F-4590-9B11-39F5E35036DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F6F4E66-ED95-4DE3-A16B-1E987C032ECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F6F4E66-ED95-4DE3-A16B-1E987C032ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F6F4E66-ED95-4DE3-A16B-1E987C032ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F6F4E66-ED95-4DE3-A16B-1E987C032ECE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC76597D-1AE7-48F1-BCBD-B36875844A5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC76597D-1AE7-48F1-BCBD-B36875844A5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC76597D-1AE7-48F1-BCBD-B36875844A5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC76597D-1AE7-48F1-BCBD-B36875844A5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B1562A7-5C5F-4590-9B11-39F5E35036DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B1562A7-5C5F-4590-9B11-39F5E35036DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B1562A7-5C5F-4590-9B11-39F5E35036DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B1562A7-5C5F-4590-9B11-39F5E35036DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,36 @@
+C:\Users\anna.laura\source\repos\ControleEstoqueSolution\ControleEstoque\bin\Debug\net5.0\ControleEstoque.deps.json
+C:\Users\anna.laura\source\repos\ControleEstoqueSolution\ControleEstoque\bin\Debug\net5.0\ControleEstoque.dll
+C:\Users\anna.laura\source\repos\ControleEstoqueSolution\ControleEstoque\bin\Debug\net5.0\ControleEstoque.pdb
+C:\Users\anna.laura\source\repos\ControleEstoqueSolution\ControleEstoque\obj\Debug\net5.0\ControleEstoque.csproj.AssemblyReference.cache
+C:\Users\anna.laura\source\repos\ControleEstoqueSolution\ControleEstoque\obj\Debug\net5.0\ControleEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anna.laura\source\repos\ControleEstoqueSolution\ControleEstoque\obj\Debug\net5.0\ControleEstoque.AssemblyInfoInputs.cache
+C:\Users\anna.laura\source\repos\ControleEstoqueSolution\ControleEstoque\obj\Debug\net5.0\ControleEstoque.AssemblyInfo.cs
+C:\Users\anna.laura\source\repos\ControleEstoqueSolution\ControleEstoque\obj\Debug\net5.0\ControleEstoque.csproj.CoreCompileInputs.cache
+C:\Users\anna.laura\source\repos\ControleEstoqueSolution\ControleEstoque\obj\Debug\net5.0\ControleEstoque.dll
+C:\Users\anna.laura\source\repos\ControleEstoqueSolution\ControleEstoque\obj\Debug\net5.0\refint\ControleEstoque.dll
+C:\Users\anna.laura\source\repos\ControleEstoqueSolution\ControleEstoque\obj\Debug\net5.0\ControleEstoque.pdb
+C:\Users\anna.laura\source\repos\ControleEstoqueSolution\ControleEstoque\obj\Debug\net5.0\ref\ControleEstoque.dll
+c:\Users\joaov\Desktop\NUnit_Testes\ControleEstoqueSolution\ControleEstoque\bin\Debug\net5.0\ControleEstoque.deps.json
+c:\Users\joaov\Desktop\NUnit_Testes\ControleEstoqueSolution\ControleEstoque\bin\Debug\net5.0\ControleEstoque.dll
+c:\Users\joaov\Desktop\NUnit_Testes\ControleEstoqueSolution\ControleEstoque\bin\Debug\net5.0\ref\ControleEstoque.dll
+c:\Users\joaov\Desktop\NUnit_Testes\ControleEstoqueSolution\ControleEstoque\bin\Debug\net5.0\ControleEstoque.pdb
+c:\Users\joaov\Desktop\NUnit_Testes\ControleEstoqueSolution\ControleEstoque\obj\Debug\net5.0\ControleEstoque.csproj.AssemblyReference.cache
+c:\Users\joaov\Desktop\NUnit_Testes\ControleEstoqueSolution\ControleEstoque\obj\Debug\net5.0\ControleEstoque.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\joaov\Desktop\NUnit_Testes\ControleEstoqueSolution\ControleEstoque\obj\Debug\net5.0\ControleEstoque.AssemblyInfoInputs.cache
+c:\Users\joaov\Desktop\NUnit_Testes\ControleEstoqueSolution\ControleEstoque\obj\Debug\net5.0\ControleEstoque.AssemblyInfo.cs
+c:\Users\joaov\Desktop\NUnit_Testes\ControleEstoqueSolution\ControleEstoque\obj\Debug\net5.0\ControleEstoque.csproj.CoreCompileInputs.cache
+c:\Users\joaov\Desktop\NUnit_Testes\ControleEstoqueSolution\ControleEstoque\obj\Debug\net5.0\ControleEstoque.dll
+c:\Users\joaov\Desktop\NUnit_Testes\ControleEstoqueSolution\ControleEstoque\obj\Debug\net5.0\ref\ControleEstoque.dll
+c:\Users\joaov\Desktop\NUnit_Testes\ControleEstoqueSolution\ControleEstoque\obj\Debug\net5.0\ControleEstoque.pdb
+c:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_27_06_Testes_NUnit\ControleEstoqueSolution\ControleEstoque\bin\Debug\net5.0\ControleEstoque.deps.json
+c:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_27_06_Testes_NUnit\ControleEstoqueSolution\ControleEstoque\bin\Debug\net5.0\ControleEstoque.dll
+c:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_27_06_Testes_NUnit\ControleEstoqueSolution\ControleEstoque\bin\Debug\net5.0\ref\ControleEstoque.dll
+c:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_27_06_Testes_NUnit\ControleEstoqueSolution\ControleEstoque\bin\Debug\net5.0\ControleEstoque.pdb
+c:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_27_06_Testes_NUnit\ControleEstoqueSolution\ControleEstoque\obj\Debug\net5.0\ControleEstoque.csproj.AssemblyReference.cache
+c:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_27_06_Testes_NUnit\ControleEstoqueSolution\ControleEstoque\obj\Debug\net5.0\ControleEstoque.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_27_06_Testes_NUnit\ControleEstoqueSolution\ControleEstoque\obj\Debug\net5.0\ControleEstoque.AssemblyInfoInputs.cache
+c:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_27_06_Testes_NUnit\ControleEstoqueSolution\ControleEstoque\obj\Debug\net5.0\ControleEstoque.AssemblyInfo.cs
+c:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_27_06_Testes_NUnit\ControleEstoqueSolution\ControleEstoque\obj\Debug\net5.0\ControleEstoque.csproj.CoreCompileInputs.cache
+c:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_27_06_Testes_NUnit\ControleEstoqueSolution\ControleEstoque\obj\Debug\net5.0\ControleEstoque.dll
+c:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_27_06_Testes_NUnit\ControleEstoqueSolution\ControleEstoque\obj\Debug\net5.0\ref\ControleEstoque.dll
+c:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_27_06_Testes_NUnit\ControleEstoqueSolution\ControleEstoque\obj\Debug\net5.0\ControleEstoque.pdb

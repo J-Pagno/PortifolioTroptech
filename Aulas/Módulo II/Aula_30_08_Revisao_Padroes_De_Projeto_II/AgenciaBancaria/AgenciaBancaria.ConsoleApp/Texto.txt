@@ -1,0 +1,45 @@
+﻿- A implementações de testes é opcional;
+
+
+============ Parte 3 ============ 
+
+
+Patrícia é secretária e dentre suas tarefas habituais existe a de controlar o uso das
+três salas de reunião, que são utilizadas por todos os setores da empresa.
+Na planilha, ela criou a coluna de horários e três colunas, uma para cada sala de
+reunião. Num controle à parte, ela relaciona o nome do funcionário, seu cargo e ramal.
+Para cada sala, precisa-se saber o número de lugares.
+
+Dado o cenário descrito acima, o sistema deve atender aos seguintes requisitos de negócio:
+
+- As três salas devem ser pré-cadastradas no sistema, o usuário não pode cadastrar novas salas;
+- Cada sala deve ter um nome e número de lugares;
+- O sistema deve disponibilizar a funcionalidade de reservar horário, que deve registrar o horário de início, horário de fim, sala e nome do funcionário;
+
+
+Requisitos técnicos:
+- Considere o diagrama de classes para criação das classes de negócio e banco de dados;
+- Os id's de sala e de reserva devem ser auto incrementados;
+- Utilize arquitetura em camadas;
+- Utilize o padrão Repository;
+
+
+=========== Parte 4  [PROJETO FINAL] ========== 
+
+Vamos evoluir a última lição.
+
+Requisitos de negócio:
+
+- O sistema deve permitir cadastrar funcionários, constando o seu nome, cargo e ramal. Se o cadastro der certo, o sistema deve apresentar o id recém cadastrado na tela;
+- O sistema deve solicitar o identificador do funcionário ao cadastrar a reserva;
+- O sistema deve validar se o intervalo de datas é válido, por exemplo, a data final deve ser maior que a inicial;
+- O sistema não deve permitir o cadastro de reservas para o passado;
+- Se a sala estiver reservada do horário em que já existe uma reserva, deve informar para o usuário que não foi possível fazer a reserva apresentando as reservas já existentes para que o usuário escolha outro horário;
+
+Requisitos técnicos:
+- Considere o diagrama de classes para criação das classes de negócio e banco de dados;
+- O id do funcionário deve ser numérico e auto incremento;
+- Utilize arquitetura em camadas;
+- Utilize o padrão Repository;
+
+Ps: teste unitário vai te ajudar no domínio

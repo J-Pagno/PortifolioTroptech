@@ -1,0 +1,16 @@
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_24_05\E02_Bonus\obj\Debug\net5.0\E02_Bonus.csproj.AssemblyReference.cache
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_24_05\E02_Bonus\obj\Debug\net5.0\E02_Bonus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_24_05\E02_Bonus\obj\Debug\net5.0\E02_Bonus.AssemblyInfoInputs.cache
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_24_05\E02_Bonus\obj\Debug\net5.0\E02_Bonus.AssemblyInfo.cs
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_24_05\E02_Bonus\obj\Debug\net5.0\E02_Bonus.csproj.CoreCompileInputs.cache
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_24_05\E02_Bonus\bin\Debug\net5.0\E02_Bonus.exe
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_24_05\E02_Bonus\bin\Debug\net5.0\E02_Bonus.deps.json
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_24_05\E02_Bonus\bin\Debug\net5.0\E02_Bonus.runtimeconfig.json
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_24_05\E02_Bonus\bin\Debug\net5.0\E02_Bonus.runtimeconfig.dev.json
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_24_05\E02_Bonus\bin\Debug\net5.0\E02_Bonus.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_24_05\E02_Bonus\bin\Debug\net5.0\ref\E02_Bonus.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_24_05\E02_Bonus\bin\Debug\net5.0\E02_Bonus.pdb
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_24_05\E02_Bonus\obj\Debug\net5.0\E02_Bonus.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_24_05\E02_Bonus\obj\Debug\net5.0\ref\E02_Bonus.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_24_05\E02_Bonus\obj\Debug\net5.0\E02_Bonus.pdb
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_24_05\E02_Bonus\obj\Debug\net5.0\E02_Bonus.genruntimeconfig.cache

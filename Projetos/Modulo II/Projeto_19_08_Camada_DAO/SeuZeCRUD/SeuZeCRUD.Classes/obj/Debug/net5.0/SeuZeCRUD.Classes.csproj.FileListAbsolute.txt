@@ -1,0 +1,12 @@
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_19_08_Camada_DAO\Aula_11_08_CRUD_Com_SQL_Server\SeuZeCRUD\SeuZeCRUD.Classes\obj\Debug\net5.0\SeuZeCRUD.Classes.csproj.AssemblyReference.cache
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_19_08_Camada_DAO\Aula_11_08_CRUD_Com_SQL_Server\SeuZeCRUD\SeuZeCRUD.Classes\obj\Debug\net5.0\SeuZeCRUD.Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_19_08_Camada_DAO\Aula_11_08_CRUD_Com_SQL_Server\SeuZeCRUD\SeuZeCRUD.Classes\obj\Debug\net5.0\SeuZeCRUD.Classes.AssemblyInfoInputs.cache
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_19_08_Camada_DAO\Aula_11_08_CRUD_Com_SQL_Server\SeuZeCRUD\SeuZeCRUD.Classes\obj\Debug\net5.0\SeuZeCRUD.Classes.AssemblyInfo.cs
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_19_08_Camada_DAO\Aula_11_08_CRUD_Com_SQL_Server\SeuZeCRUD\SeuZeCRUD.Classes\obj\Debug\net5.0\SeuZeCRUD.Classes.csproj.CoreCompileInputs.cache
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_19_08_Camada_DAO\Aula_11_08_CRUD_Com_SQL_Server\SeuZeCRUD\SeuZeCRUD.Classes\bin\Debug\net5.0\SeuZeCRUD.Classes.deps.json
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_19_08_Camada_DAO\Aula_11_08_CRUD_Com_SQL_Server\SeuZeCRUD\SeuZeCRUD.Classes\bin\Debug\net5.0\SeuZeCRUD.Classes.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_19_08_Camada_DAO\Aula_11_08_CRUD_Com_SQL_Server\SeuZeCRUD\SeuZeCRUD.Classes\bin\Debug\net5.0\ref\SeuZeCRUD.Classes.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_19_08_Camada_DAO\Aula_11_08_CRUD_Com_SQL_Server\SeuZeCRUD\SeuZeCRUD.Classes\bin\Debug\net5.0\SeuZeCRUD.Classes.pdb
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_19_08_Camada_DAO\Aula_11_08_CRUD_Com_SQL_Server\SeuZeCRUD\SeuZeCRUD.Classes\obj\Debug\net5.0\SeuZeCRUD.Classes.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_19_08_Camada_DAO\Aula_11_08_CRUD_Com_SQL_Server\SeuZeCRUD\SeuZeCRUD.Classes\obj\Debug\net5.0\ref\SeuZeCRUD.Classes.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_19_08_Camada_DAO\Aula_11_08_CRUD_Com_SQL_Server\SeuZeCRUD\SeuZeCRUD.Classes\obj\Debug\net5.0\SeuZeCRUD.Classes.pdb

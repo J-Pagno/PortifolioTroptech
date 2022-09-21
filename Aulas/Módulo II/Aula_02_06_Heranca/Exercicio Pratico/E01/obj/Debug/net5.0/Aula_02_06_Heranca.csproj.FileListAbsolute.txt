@@ -1,0 +1,32 @@
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_02_06_Heranca\bin\Debug\net5.0\Aula_02_06_Heranca.exe
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_02_06_Heranca\bin\Debug\net5.0\Aula_02_06_Heranca.deps.json
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_02_06_Heranca\bin\Debug\net5.0\Aula_02_06_Heranca.runtimeconfig.json
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_02_06_Heranca\bin\Debug\net5.0\Aula_02_06_Heranca.runtimeconfig.dev.json
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_02_06_Heranca\bin\Debug\net5.0\Aula_02_06_Heranca.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_02_06_Heranca\bin\Debug\net5.0\ref\Aula_02_06_Heranca.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_02_06_Heranca\bin\Debug\net5.0\Aula_02_06_Heranca.pdb
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_02_06_Heranca\obj\Debug\net5.0\Aula_02_06_Heranca.csproj.AssemblyReference.cache
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_02_06_Heranca\obj\Debug\net5.0\Aula_02_06_Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_02_06_Heranca\obj\Debug\net5.0\Aula_02_06_Heranca.AssemblyInfoInputs.cache
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_02_06_Heranca\obj\Debug\net5.0\Aula_02_06_Heranca.AssemblyInfo.cs
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_02_06_Heranca\obj\Debug\net5.0\Aula_02_06_Heranca.csproj.CoreCompileInputs.cache
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_02_06_Heranca\obj\Debug\net5.0\Aula_02_06_Heranca.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_02_06_Heranca\obj\Debug\net5.0\ref\Aula_02_06_Heranca.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_02_06_Heranca\obj\Debug\net5.0\Aula_02_06_Heranca.pdb
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_02_06_Heranca\obj\Debug\net5.0\Aula_02_06_Heranca.genruntimeconfig.cache
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_02_06_Heranca\Exercicio Pratico\E01\obj\Debug\net5.0\Aula_02_06_Heranca.csproj.AssemblyReference.cache
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_02_06_Heranca\Exercicio Pratico\E01\obj\Debug\net5.0\Aula_02_06_Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_02_06_Heranca\Exercicio Pratico\E01\obj\Debug\net5.0\Aula_02_06_Heranca.AssemblyInfoInputs.cache
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_02_06_Heranca\Exercicio Pratico\E01\obj\Debug\net5.0\Aula_02_06_Heranca.AssemblyInfo.cs
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_02_06_Heranca\Exercicio Pratico\E01\obj\Debug\net5.0\Aula_02_06_Heranca.csproj.CoreCompileInputs.cache
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_02_06_Heranca\Exercicio Pratico\E01\obj\Debug\net5.0\Aula_02_06_Heranca.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_02_06_Heranca\Exercicio Pratico\E01\obj\Debug\net5.0\ref\Aula_02_06_Heranca.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_02_06_Heranca\Exercicio Pratico\E01\obj\Debug\net5.0\Aula_02_06_Heranca.pdb
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_02_06_Heranca\Exercicio Pratico\E01\bin\Debug\net5.0\Aula_02_06_Heranca.exe
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_02_06_Heranca\Exercicio Pratico\E01\bin\Debug\net5.0\Aula_02_06_Heranca.deps.json
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_02_06_Heranca\Exercicio Pratico\E01\bin\Debug\net5.0\Aula_02_06_Heranca.runtimeconfig.json
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_02_06_Heranca\Exercicio Pratico\E01\bin\Debug\net5.0\Aula_02_06_Heranca.runtimeconfig.dev.json
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_02_06_Heranca\Exercicio Pratico\E01\bin\Debug\net5.0\Aula_02_06_Heranca.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_02_06_Heranca\Exercicio Pratico\E01\bin\Debug\net5.0\ref\Aula_02_06_Heranca.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_02_06_Heranca\Exercicio Pratico\E01\bin\Debug\net5.0\Aula_02_06_Heranca.pdb
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_02_06_Heranca\Exercicio Pratico\E01\obj\Debug\net5.0\Aula_02_06_Heranca.genruntimeconfig.cache

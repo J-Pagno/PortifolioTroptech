@@ -1,0 +1,26 @@
+1 - Por que quando usamos Stack ou Queue conseguimos armazenar
+valores de todos os tipos?
+R: Stack é genérica, assim, fazendo com que seu tipo possa variar de acordo com a necessidade do
+    dev (polimorfismo paramétrico)
+
+2 - Atribua verdadeiro (V) ou falso (F) para cada uma das afirmações
+abaixo:
+
+( F ) - Quando um subtipo herda de um supertipo podemos entender esse
+comportamento como polimorfismo paramétrico.
+( F ) - No C#, generics (classes e métodos genéricos) é equivalente a
+polimorfismo de inclusão.
+( F ) - Não é possível realizar sobrecarga de operadores no C#.
+
+3 - Por que não é possível armazenar valores inteiros em uma
+Queue<string>?
+R: Queue é genérica, assim, fazendo com que seu tipo seja definido em sua instância
+
+========================
+
+Sobrecarga de opreadores
+polimorfismo paramétrico, mais conhecido como genericos <T>
+    classes genericas são o método de sobrescrição de metodos genéricos. Paramétrico pois ele recebe um "Parâmetro"
+    extra no seu uso
+
+trow new ArgumentException("Mensagem");

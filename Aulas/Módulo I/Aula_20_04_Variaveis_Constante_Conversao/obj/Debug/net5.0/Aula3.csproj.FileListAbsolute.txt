@@ -1,0 +1,16 @@
+C:\Users\joaov\Desktop\TropTech\Aula3\obj\Debug\net5.0\Aula3.csproj.AssemblyReference.cache
+C:\Users\joaov\Desktop\TropTech\Aula3\obj\Debug\net5.0\Aula3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\Desktop\TropTech\Aula3\obj\Debug\net5.0\Aula3.AssemblyInfoInputs.cache
+C:\Users\joaov\Desktop\TropTech\Aula3\obj\Debug\net5.0\Aula3.AssemblyInfo.cs
+C:\Users\joaov\Desktop\TropTech\Aula3\obj\Debug\net5.0\Aula3.csproj.CoreCompileInputs.cache
+C:\Users\joaov\Desktop\TropTech\Aula3\bin\Debug\net5.0\Aula3.exe
+C:\Users\joaov\Desktop\TropTech\Aula3\bin\Debug\net5.0\Aula3.deps.json
+C:\Users\joaov\Desktop\TropTech\Aula3\bin\Debug\net5.0\Aula3.runtimeconfig.json
+C:\Users\joaov\Desktop\TropTech\Aula3\bin\Debug\net5.0\Aula3.runtimeconfig.dev.json
+C:\Users\joaov\Desktop\TropTech\Aula3\bin\Debug\net5.0\Aula3.dll
+C:\Users\joaov\Desktop\TropTech\Aula3\bin\Debug\net5.0\ref\Aula3.dll
+C:\Users\joaov\Desktop\TropTech\Aula3\bin\Debug\net5.0\Aula3.pdb
+C:\Users\joaov\Desktop\TropTech\Aula3\obj\Debug\net5.0\Aula3.dll
+C:\Users\joaov\Desktop\TropTech\Aula3\obj\Debug\net5.0\ref\Aula3.dll
+C:\Users\joaov\Desktop\TropTech\Aula3\obj\Debug\net5.0\Aula3.pdb
+C:\Users\joaov\Desktop\TropTech\Aula3\obj\Debug\net5.0\Aula3.genruntimeconfig.cache

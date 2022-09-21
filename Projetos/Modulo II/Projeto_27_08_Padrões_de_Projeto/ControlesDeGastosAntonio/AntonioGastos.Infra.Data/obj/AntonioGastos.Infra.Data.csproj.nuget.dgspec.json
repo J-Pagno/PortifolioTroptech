@@ -1,0 +1,126 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\joaov\\Desktop\\Código\\TropTech\\C#\\Projetos\\Modulo II\\Projeto_27_08_Padrões_de_Projeto\\ControlesDeGastosAntonio\\AntonioGastos.Infra.Data\\AntonioGastos.Infra.Data.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\joaov\\Desktop\\Código\\TropTech\\C#\\Projetos\\Modulo II\\Projeto_27_08_Padrões_de_Projeto\\ControlesDeGastosAntonio\\AntonioGastos.Domain\\AntonioGastos.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\joaov\\Desktop\\Código\\TropTech\\C#\\Projetos\\Modulo II\\Projeto_27_08_Padrões_de_Projeto\\ControlesDeGastosAntonio\\AntonioGastos.Domain\\AntonioGastos.Domain.csproj",
+        "projectName": "AntonioGastos.Domain",
+        "projectPath": "C:\\Users\\joaov\\Desktop\\Código\\TropTech\\C#\\Projetos\\Modulo II\\Projeto_27_08_Padrões_de_Projeto\\ControlesDeGastosAntonio\\AntonioGastos.Domain\\AntonioGastos.Domain.csproj",
+        "packagesPath": "C:\\Users\\joaov\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joaov\\Desktop\\Código\\TropTech\\C#\\Projetos\\Modulo II\\Projeto_27_08_Padrões_de_Projeto\\ControlesDeGastosAntonio\\AntonioGastos.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\joaov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\joaov\\Desktop\\Código\\TropTech\\C#\\Projetos\\Modulo II\\Projeto_27_08_Padrões_de_Projeto\\ControlesDeGastosAntonio\\AntonioGastos.Infra.Data\\AntonioGastos.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\joaov\\Desktop\\Código\\TropTech\\C#\\Projetos\\Modulo II\\Projeto_27_08_Padrões_de_Projeto\\ControlesDeGastosAntonio\\AntonioGastos.Infra.Data\\AntonioGastos.Infra.Data.csproj",
+        "projectName": "AntonioGastos.Infra.Data",
+        "projectPath": "C:\\Users\\joaov\\Desktop\\Código\\TropTech\\C#\\Projetos\\Modulo II\\Projeto_27_08_Padrões_de_Projeto\\ControlesDeGastosAntonio\\AntonioGastos.Infra.Data\\AntonioGastos.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\joaov\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joaov\\Desktop\\Código\\TropTech\\C#\\Projetos\\Modulo II\\Projeto_27_08_Padrões_de_Projeto\\ControlesDeGastosAntonio\\AntonioGastos.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\joaov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\joaov\\Desktop\\Código\\TropTech\\C#\\Projetos\\Modulo II\\Projeto_27_08_Padrões_de_Projeto\\ControlesDeGastosAntonio\\AntonioGastos.Domain\\AntonioGastos.Domain.csproj": {
+                "projectPath": "C:\\Users\\joaov\\Desktop\\Código\\TropTech\\C#\\Projetos\\Modulo II\\Projeto_27_08_Padrões_de_Projeto\\ControlesDeGastosAntonio\\AntonioGastos.Domain\\AntonioGastos.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

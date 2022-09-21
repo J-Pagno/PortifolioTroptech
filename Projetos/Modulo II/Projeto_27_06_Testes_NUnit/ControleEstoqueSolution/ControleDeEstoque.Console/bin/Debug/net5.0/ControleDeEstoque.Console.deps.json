@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ControleDeEstoque.Console/1.0.0": {
+        "dependencies": {
+          "ControleEstoque": "1.0.0"
+        },
+        "runtime": {
+          "ControleDeEstoque.Console.dll": {}
+        }
+      },
+      "ControleEstoque/1.0.0": {
+        "runtime": {
+          "ControleEstoque.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ControleDeEstoque.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ControleEstoque/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

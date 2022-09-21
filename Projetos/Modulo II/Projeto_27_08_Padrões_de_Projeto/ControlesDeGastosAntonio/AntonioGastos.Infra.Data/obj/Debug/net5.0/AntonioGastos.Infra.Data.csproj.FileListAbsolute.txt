@@ -1,0 +1,15 @@
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_27_08_Padrões_de_Projeto\ControlesDeGastosAntonio\AntonioGastos.Infra.Data\obj\Debug\net5.0\AntonioGastos.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_27_08_Padrões_de_Projeto\ControlesDeGastosAntonio\AntonioGastos.Infra.Data\obj\Debug\net5.0\AntonioGastos.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_27_08_Padrões_de_Projeto\ControlesDeGastosAntonio\AntonioGastos.Infra.Data\obj\Debug\net5.0\AntonioGastos.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_27_08_Padrões_de_Projeto\ControlesDeGastosAntonio\AntonioGastos.Infra.Data\obj\Debug\net5.0\AntonioGastos.Infra.Data.AssemblyInfo.cs
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_27_08_Padrões_de_Projeto\ControlesDeGastosAntonio\AntonioGastos.Infra.Data\obj\Debug\net5.0\AntonioGastos.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_27_08_Padrões_de_Projeto\ControlesDeGastosAntonio\AntonioGastos.Infra.Data\bin\Debug\net5.0\AntonioGastos.Infra.Data.deps.json
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_27_08_Padrões_de_Projeto\ControlesDeGastosAntonio\AntonioGastos.Infra.Data\bin\Debug\net5.0\AntonioGastos.Infra.Data.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_27_08_Padrões_de_Projeto\ControlesDeGastosAntonio\AntonioGastos.Infra.Data\bin\Debug\net5.0\ref\AntonioGastos.Infra.Data.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_27_08_Padrões_de_Projeto\ControlesDeGastosAntonio\AntonioGastos.Infra.Data\bin\Debug\net5.0\AntonioGastos.Infra.Data.pdb
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_27_08_Padrões_de_Projeto\ControlesDeGastosAntonio\AntonioGastos.Infra.Data\bin\Debug\net5.0\AntonioGastos.Domain.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_27_08_Padrões_de_Projeto\ControlesDeGastosAntonio\AntonioGastos.Infra.Data\bin\Debug\net5.0\AntonioGastos.Domain.pdb
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_27_08_Padrões_de_Projeto\ControlesDeGastosAntonio\AntonioGastos.Infra.Data\obj\Debug\net5.0\AntonioGastos.Infra.Data.csproj.CopyComplete
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_27_08_Padrões_de_Projeto\ControlesDeGastosAntonio\AntonioGastos.Infra.Data\obj\Debug\net5.0\AntonioGastos.Infra.Data.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_27_08_Padrões_de_Projeto\ControlesDeGastosAntonio\AntonioGastos.Infra.Data\obj\Debug\net5.0\ref\AntonioGastos.Infra.Data.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_27_08_Padrões_de_Projeto\ControlesDeGastosAntonio\AntonioGastos.Infra.Data\obj\Debug\net5.0\AntonioGastos.Infra.Data.pdb

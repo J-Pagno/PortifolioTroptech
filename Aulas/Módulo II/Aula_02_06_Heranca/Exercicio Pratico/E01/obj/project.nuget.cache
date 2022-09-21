@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JBD0W73hRzb8AV0GhpwbqaEunJwk9HCFzngAPGWQtHgCR/qMJloAV9PWs1NNIa1jI3kkRSI6vMxj96Q/gqJywQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaov\\Desktop\\Código\\TropTech\\C#\\Aula_02_06_Heranca\\Exercicio Pratico\\E01\\Aula_02_06_Heranca.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

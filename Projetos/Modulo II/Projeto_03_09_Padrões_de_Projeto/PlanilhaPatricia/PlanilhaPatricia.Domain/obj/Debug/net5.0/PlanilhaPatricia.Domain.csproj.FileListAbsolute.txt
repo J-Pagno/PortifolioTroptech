@@ -1,0 +1,12 @@
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_03_09_Padrões_de_Projeto\PlanilhaPatricia\PlanilhaPatricia.Domain\bin\Debug\net5.0\PlanilhaPatricia.Domain.deps.json
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_03_09_Padrões_de_Projeto\PlanilhaPatricia\PlanilhaPatricia.Domain\bin\Debug\net5.0\PlanilhaPatricia.Domain.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_03_09_Padrões_de_Projeto\PlanilhaPatricia\PlanilhaPatricia.Domain\bin\Debug\net5.0\ref\PlanilhaPatricia.Domain.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_03_09_Padrões_de_Projeto\PlanilhaPatricia\PlanilhaPatricia.Domain\bin\Debug\net5.0\PlanilhaPatricia.Domain.pdb
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_03_09_Padrões_de_Projeto\PlanilhaPatricia\PlanilhaPatricia.Domain\obj\Debug\net5.0\PlanilhaPatricia.Domain.csproj.AssemblyReference.cache
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_03_09_Padrões_de_Projeto\PlanilhaPatricia\PlanilhaPatricia.Domain\obj\Debug\net5.0\PlanilhaPatricia.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_03_09_Padrões_de_Projeto\PlanilhaPatricia\PlanilhaPatricia.Domain\obj\Debug\net5.0\PlanilhaPatricia.Domain.AssemblyInfoInputs.cache
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_03_09_Padrões_de_Projeto\PlanilhaPatricia\PlanilhaPatricia.Domain\obj\Debug\net5.0\PlanilhaPatricia.Domain.AssemblyInfo.cs
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_03_09_Padrões_de_Projeto\PlanilhaPatricia\PlanilhaPatricia.Domain\obj\Debug\net5.0\PlanilhaPatricia.Domain.csproj.CoreCompileInputs.cache
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_03_09_Padrões_de_Projeto\PlanilhaPatricia\PlanilhaPatricia.Domain\obj\Debug\net5.0\PlanilhaPatricia.Domain.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_03_09_Padrões_de_Projeto\PlanilhaPatricia\PlanilhaPatricia.Domain\obj\Debug\net5.0\ref\PlanilhaPatricia.Domain.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_03_09_Padrões_de_Projeto\PlanilhaPatricia\PlanilhaPatricia.Domain\obj\Debug\net5.0\PlanilhaPatricia.Domain.pdb

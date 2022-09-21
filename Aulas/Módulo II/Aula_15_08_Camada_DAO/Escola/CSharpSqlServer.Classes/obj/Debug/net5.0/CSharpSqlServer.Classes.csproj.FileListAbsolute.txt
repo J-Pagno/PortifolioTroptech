@@ -1,0 +1,12 @@
+C:\Source\CSharpSqlServer\CSharpSqlServer.Classes\bin\Debug\net5.0\CSharpSqlServer.Classes.deps.json
+C:\Source\CSharpSqlServer\CSharpSqlServer.Classes\bin\Debug\net5.0\CSharpSqlServer.Classes.dll
+C:\Source\CSharpSqlServer\CSharpSqlServer.Classes\bin\Debug\net5.0\CSharpSqlServer.Classes.pdb
+C:\Source\CSharpSqlServer\CSharpSqlServer.Classes\obj\Debug\net5.0\CSharpSqlServer.Classes.csproj.AssemblyReference.cache
+C:\Source\CSharpSqlServer\CSharpSqlServer.Classes\obj\Debug\net5.0\CSharpSqlServer.Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\CSharpSqlServer\CSharpSqlServer.Classes\obj\Debug\net5.0\CSharpSqlServer.Classes.AssemblyInfoInputs.cache
+C:\Source\CSharpSqlServer\CSharpSqlServer.Classes\obj\Debug\net5.0\CSharpSqlServer.Classes.AssemblyInfo.cs
+C:\Source\CSharpSqlServer\CSharpSqlServer.Classes\obj\Debug\net5.0\CSharpSqlServer.Classes.csproj.CoreCompileInputs.cache
+C:\Source\CSharpSqlServer\CSharpSqlServer.Classes\obj\Debug\net5.0\CSharpSqlServer.Classes.dll
+C:\Source\CSharpSqlServer\CSharpSqlServer.Classes\obj\Debug\net5.0\refint\CSharpSqlServer.Classes.dll
+C:\Source\CSharpSqlServer\CSharpSqlServer.Classes\obj\Debug\net5.0\CSharpSqlServer.Classes.pdb
+C:\Source\CSharpSqlServer\CSharpSqlServer.Classes\obj\Debug\net5.0\ref\CSharpSqlServer.Classes.dll

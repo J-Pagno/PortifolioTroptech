@@ -1,0 +1,15 @@
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_03_09_Padrões_de_Projeto\PlanilhaPatricia\PlanilhaPatricia.Infra.Data\obj\Debug\net5.0\PlanilhaPatricia.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_03_09_Padrões_de_Projeto\PlanilhaPatricia\PlanilhaPatricia.Infra.Data\obj\Debug\net5.0\PlanilhaPatricia.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_03_09_Padrões_de_Projeto\PlanilhaPatricia\PlanilhaPatricia.Infra.Data\obj\Debug\net5.0\PlanilhaPatricia.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_03_09_Padrões_de_Projeto\PlanilhaPatricia\PlanilhaPatricia.Infra.Data\obj\Debug\net5.0\PlanilhaPatricia.Infra.Data.AssemblyInfo.cs
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_03_09_Padrões_de_Projeto\PlanilhaPatricia\PlanilhaPatricia.Infra.Data\obj\Debug\net5.0\PlanilhaPatricia.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_03_09_Padrões_de_Projeto\PlanilhaPatricia\PlanilhaPatricia.Infra.Data\bin\Debug\net5.0\PlanilhaPatricia.Infra.Data.deps.json
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_03_09_Padrões_de_Projeto\PlanilhaPatricia\PlanilhaPatricia.Infra.Data\bin\Debug\net5.0\PlanilhaPatricia.Infra.Data.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_03_09_Padrões_de_Projeto\PlanilhaPatricia\PlanilhaPatricia.Infra.Data\bin\Debug\net5.0\ref\PlanilhaPatricia.Infra.Data.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_03_09_Padrões_de_Projeto\PlanilhaPatricia\PlanilhaPatricia.Infra.Data\bin\Debug\net5.0\PlanilhaPatricia.Infra.Data.pdb
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_03_09_Padrões_de_Projeto\PlanilhaPatricia\PlanilhaPatricia.Infra.Data\bin\Debug\net5.0\PlanilhaPatricia.Domain.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_03_09_Padrões_de_Projeto\PlanilhaPatricia\PlanilhaPatricia.Infra.Data\bin\Debug\net5.0\PlanilhaPatricia.Domain.pdb
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_03_09_Padrões_de_Projeto\PlanilhaPatricia\PlanilhaPatricia.Infra.Data\obj\Debug\net5.0\PlanilhaPatricia.Infra.Data.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_03_09_Padrões_de_Projeto\PlanilhaPatricia\PlanilhaPatricia.Infra.Data\obj\Debug\net5.0\ref\PlanilhaPatricia.Infra.Data.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_03_09_Padrões_de_Projeto\PlanilhaPatricia\PlanilhaPatricia.Infra.Data\obj\Debug\net5.0\PlanilhaPatricia.Infra.Data.pdb
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_03_09_Padrões_de_Projeto\PlanilhaPatricia\PlanilhaPatricia.Infra.Data\obj\Debug\net5.0\PlanilhaPatricia.Infra.Data.csproj.CopyComplete

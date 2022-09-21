@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Sartor\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Sartor\\.nuget\\packages"
+    ]
+  }
+}

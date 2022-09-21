@@ -1,0 +1,77 @@
+USE TropTechModasDB;
+
+-- 1) 
+
+INSERT INTO CLIENTES
+VALUES
+    ('25520831025', 'Enzo Ribeiro', '99999999', 1, 1),
+    ('27446351038', 'Maria Mendes', '99999999', 2, 1),
+    ('78014068008', 'Nilson Souza', '99999999', 3, 1),
+    ('93260976093', 'Marina Delfes', '99999999', 4, 1),
+    ('97945506045', 'Alberta Branco', '99999999', 5, 2),
+    ('25520831024', 'Enzo Jorge', '99999999', 6, 2),
+    ('27446351039', 'José Maria', '99999999', 7, 2);
+
+INSERT INTO CLIENTES
+VALUES
+    ('78014068009', 'Nilsinho', '99999999', NULL, 1),
+    ('93260976094', 'Marininha', '99999999', NULL, 2),
+    ('97945506046', 'Albertinho', '99999999', NULL, 2);
+
+USE TropTechModasDB;
+    
+UPDATE CLIENTES SET TipoPessoa = 1 WHERE CadastroUnico LIKE '25520831025';
+UPDATE CLIENTES SET TipoPessoa = 1 WHERE CadastroUnico LIKE '27446351038';
+UPDATE CLIENTES SET TipoPessoa = 1 WHERE CadastroUnico LIKE '78014068008';
+UPDATE CLIENTES SET TipoPessoa = 1 WHERE CadastroUnico LIKE '93260976093';
+UPDATE CLIENTES SET TipoPessoa = 1 WHERE CadastroUnico LIKE '78014068009';
+UPDATE CLIENTES SET TipoPessoa = 2 WHERE CadastroUnico LIKE '97945506045';
+UPDATE CLIENTES SET TipoPessoa = 2 WHERE CadastroUnico LIKE '25520831024';
+UPDATE CLIENTES SET TipoPessoa = 2 WHERE CadastroUnico LIKE '27446351039';
+UPDATE CLIENTES SET TipoPessoa = 2 WHERE CadastroUnico LIKE '93260976094';
+UPDATE CLIENTES SET TipoPessoa = 2 WHERE CadastroUnico LIKE '97945506046';
+
+-- 2) 
+
+USE TropTechModasDB;
+
+DECLARE @EnderecoId INT
+
+SELECT @EnderecoId = EnderecoId
+FROM CLIENTES
+WHERE CadastroUnico LIKE '25520831024';
+
+DELETE FROM CLIENTES WHERE CadastroUnico LIKE '25520831024';
+DELETE FROM Endereco WHERE Id = @EnderecoId;
+
+--3)
+
+DELETE FROM CLIENTES WHERE CadastroUnico LIKE '97945506046';
+
+-- 4)
+
+SELECT @EnderecoId = EnderecoId
+FROM CLIENTES
+WHERE CadastroUnico LIKE '25520831025';
+
+UPDATE ENDERECO SET Rua = 'Rua Alterada' WHERE Id = @EnderecoId;
+
+-- 5)
+
+INSERT INTO ENDERECO
+VALUES
+    ('Rua 1', 40, 'Lages', 'SC', 'Brasil');
+
+SET @EnderecoId = (SELECT Max(Id)
+FROM ENDERECO);
+
+UPDATE CLIENTES SET EnderecoId = @EnderecoId WHERE CadastroUnico LIKE '93260976094';
+
+-- 6)
+
+SET @EnderecoId = (SELECT Max(Id)
+FROM ENDERECO);
+
+UPDATE CLIENTES SET EnderecoId = NULL WHERE CadastroUnico LIKE '93260976094';
+
+DELETE FROM ENDERECO WHERE Id = @EnderecoId;

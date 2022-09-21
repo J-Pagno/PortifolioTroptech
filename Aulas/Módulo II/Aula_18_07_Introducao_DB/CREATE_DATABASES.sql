@@ -1,0 +1,3 @@
+CREATE DATABASE GestaoHospitalar;
+CREATE DATABASE RoboSimulador;
+CREATE DATABASE Agenda;

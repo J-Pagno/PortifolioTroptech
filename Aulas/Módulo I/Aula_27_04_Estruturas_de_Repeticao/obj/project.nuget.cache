@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EBND8ozdSmNTSUkMFuv7RbLXyeArwLOXkYUlt8M6bagJIrHMJ2Pohs7o50o75MmCFYfxkdjFR2FTVjPZvWWJ/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaov\\Desktop\\TropTech\\C#\\Estrutura de Repetição\\Estrutura de Repetição.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

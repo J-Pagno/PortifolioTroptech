@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Estruturas_de_Decisão_2/1.0.0": {
+        "runtime": {
+          "Estruturas_de_Decisão_2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Estruturas_de_Decisão_2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

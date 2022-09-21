@@ -1,0 +1,16 @@
+C:\Users\joaov\Desktop\TropTech\C#\Estruturas_de_Decisão\bin\Debug\net5.0\Estruturas_de_Decisão.exe
+C:\Users\joaov\Desktop\TropTech\C#\Estruturas_de_Decisão\bin\Debug\net5.0\Estruturas_de_Decisão.deps.json
+C:\Users\joaov\Desktop\TropTech\C#\Estruturas_de_Decisão\bin\Debug\net5.0\Estruturas_de_Decisão.runtimeconfig.json
+C:\Users\joaov\Desktop\TropTech\C#\Estruturas_de_Decisão\bin\Debug\net5.0\Estruturas_de_Decisão.runtimeconfig.dev.json
+C:\Users\joaov\Desktop\TropTech\C#\Estruturas_de_Decisão\bin\Debug\net5.0\Estruturas_de_Decisão.dll
+C:\Users\joaov\Desktop\TropTech\C#\Estruturas_de_Decisão\bin\Debug\net5.0\ref\Estruturas_de_Decisão.dll
+C:\Users\joaov\Desktop\TropTech\C#\Estruturas_de_Decisão\bin\Debug\net5.0\Estruturas_de_Decisão.pdb
+C:\Users\joaov\Desktop\TropTech\C#\Estruturas_de_Decisão\obj\Debug\net5.0\Estruturas_de_Decisão.csproj.AssemblyReference.cache
+C:\Users\joaov\Desktop\TropTech\C#\Estruturas_de_Decisão\obj\Debug\net5.0\Estruturas_de_Decisão.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\Desktop\TropTech\C#\Estruturas_de_Decisão\obj\Debug\net5.0\Estruturas_de_Decisão.AssemblyInfoInputs.cache
+C:\Users\joaov\Desktop\TropTech\C#\Estruturas_de_Decisão\obj\Debug\net5.0\Estruturas_de_Decisão.AssemblyInfo.cs
+C:\Users\joaov\Desktop\TropTech\C#\Estruturas_de_Decisão\obj\Debug\net5.0\Estruturas_de_Decisão.csproj.CoreCompileInputs.cache
+C:\Users\joaov\Desktop\TropTech\C#\Estruturas_de_Decisão\obj\Debug\net5.0\Estruturas_de_Decisão.dll
+C:\Users\joaov\Desktop\TropTech\C#\Estruturas_de_Decisão\obj\Debug\net5.0\ref\Estruturas_de_Decisão.dll
+C:\Users\joaov\Desktop\TropTech\C#\Estruturas_de_Decisão\obj\Debug\net5.0\Estruturas_de_Decisão.pdb
+C:\Users\joaov\Desktop\TropTech\C#\Estruturas_de_Decisão\obj\Debug\net5.0\Estruturas_de_Decisão.genruntimeconfig.cache

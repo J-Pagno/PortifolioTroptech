@@ -1,0 +1,16 @@
+C:\Users\joaov\Desktop\TropTech\C#\JoaoPagnoProjeto3\bin\Debug\net5.0\JoaoPagnoProjeto3.exe
+C:\Users\joaov\Desktop\TropTech\C#\JoaoPagnoProjeto3\bin\Debug\net5.0\JoaoPagnoProjeto3.deps.json
+C:\Users\joaov\Desktop\TropTech\C#\JoaoPagnoProjeto3\bin\Debug\net5.0\JoaoPagnoProjeto3.runtimeconfig.json
+C:\Users\joaov\Desktop\TropTech\C#\JoaoPagnoProjeto3\bin\Debug\net5.0\JoaoPagnoProjeto3.runtimeconfig.dev.json
+C:\Users\joaov\Desktop\TropTech\C#\JoaoPagnoProjeto3\bin\Debug\net5.0\JoaoPagnoProjeto3.dll
+C:\Users\joaov\Desktop\TropTech\C#\JoaoPagnoProjeto3\bin\Debug\net5.0\ref\JoaoPagnoProjeto3.dll
+C:\Users\joaov\Desktop\TropTech\C#\JoaoPagnoProjeto3\bin\Debug\net5.0\JoaoPagnoProjeto3.pdb
+C:\Users\joaov\Desktop\TropTech\C#\JoaoPagnoProjeto3\obj\Debug\net5.0\JoaoPagnoProjeto3.csproj.AssemblyReference.cache
+C:\Users\joaov\Desktop\TropTech\C#\JoaoPagnoProjeto3\obj\Debug\net5.0\JoaoPagnoProjeto3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\Desktop\TropTech\C#\JoaoPagnoProjeto3\obj\Debug\net5.0\JoaoPagnoProjeto3.AssemblyInfoInputs.cache
+C:\Users\joaov\Desktop\TropTech\C#\JoaoPagnoProjeto3\obj\Debug\net5.0\JoaoPagnoProjeto3.AssemblyInfo.cs
+C:\Users\joaov\Desktop\TropTech\C#\JoaoPagnoProjeto3\obj\Debug\net5.0\JoaoPagnoProjeto3.csproj.CoreCompileInputs.cache
+C:\Users\joaov\Desktop\TropTech\C#\JoaoPagnoProjeto3\obj\Debug\net5.0\JoaoPagnoProjeto3.dll
+C:\Users\joaov\Desktop\TropTech\C#\JoaoPagnoProjeto3\obj\Debug\net5.0\ref\JoaoPagnoProjeto3.dll
+C:\Users\joaov\Desktop\TropTech\C#\JoaoPagnoProjeto3\obj\Debug\net5.0\JoaoPagnoProjeto3.pdb
+C:\Users\joaov\Desktop\TropTech\C#\JoaoPagnoProjeto3\obj\Debug\net5.0\JoaoPagnoProjeto3.genruntimeconfig.cache

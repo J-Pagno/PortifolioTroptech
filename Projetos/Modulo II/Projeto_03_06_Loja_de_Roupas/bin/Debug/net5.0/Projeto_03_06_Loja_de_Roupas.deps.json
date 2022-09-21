@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Projeto_03_06_Loja_de_Roupas/1.0.0": {
+        "runtime": {
+          "Projeto_03_06_Loja_de_Roupas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projeto_03_06_Loja_de_Roupas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

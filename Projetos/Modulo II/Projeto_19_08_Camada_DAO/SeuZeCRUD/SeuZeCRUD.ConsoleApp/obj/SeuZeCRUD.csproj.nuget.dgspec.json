@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\joaov\\Desktop\\Código\\TropTech\\C#\\Projetos\\Modulo II\\Projeto_19_08_Camada_DAO\\Aula_11_08_CRUD_Com_SQL_Server\\SeuZeCRUD\\SeuZeCRUD.ConsoleApp\\SeuZeCRUD.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\joaov\\Desktop\\Código\\TropTech\\C#\\Projetos\\Modulo II\\Projeto_19_08_Camada_DAO\\Aula_11_08_CRUD_Com_SQL_Server\\SeuZeCRUD\\SeuZeCRUD.Classes\\SeuZeCRUD.Classes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\joaov\\Desktop\\Código\\TropTech\\C#\\Projetos\\Modulo II\\Projeto_19_08_Camada_DAO\\Aula_11_08_CRUD_Com_SQL_Server\\SeuZeCRUD\\SeuZeCRUD.Classes\\SeuZeCRUD.Classes.csproj",
+        "projectName": "SeuZeCRUD.Classes",
+        "projectPath": "C:\\Users\\joaov\\Desktop\\Código\\TropTech\\C#\\Projetos\\Modulo II\\Projeto_19_08_Camada_DAO\\Aula_11_08_CRUD_Com_SQL_Server\\SeuZeCRUD\\SeuZeCRUD.Classes\\SeuZeCRUD.Classes.csproj",
+        "packagesPath": "C:\\Users\\joaov\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joaov\\Desktop\\Código\\TropTech\\C#\\Projetos\\Modulo II\\Projeto_19_08_Camada_DAO\\Aula_11_08_CRUD_Com_SQL_Server\\SeuZeCRUD\\SeuZeCRUD.Classes\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\joaov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\joaov\\Desktop\\Código\\TropTech\\C#\\Projetos\\Modulo II\\Projeto_19_08_Camada_DAO\\Aula_11_08_CRUD_Com_SQL_Server\\SeuZeCRUD\\SeuZeCRUD.ConsoleApp\\SeuZeCRUD.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\joaov\\Desktop\\Código\\TropTech\\C#\\Projetos\\Modulo II\\Projeto_19_08_Camada_DAO\\Aula_11_08_CRUD_Com_SQL_Server\\SeuZeCRUD\\SeuZeCRUD.ConsoleApp\\SeuZeCRUD.csproj",
+        "projectName": "SeuZeCRUD",
+        "projectPath": "C:\\Users\\joaov\\Desktop\\Código\\TropTech\\C#\\Projetos\\Modulo II\\Projeto_19_08_Camada_DAO\\Aula_11_08_CRUD_Com_SQL_Server\\SeuZeCRUD\\SeuZeCRUD.ConsoleApp\\SeuZeCRUD.csproj",
+        "packagesPath": "C:\\Users\\joaov\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joaov\\Desktop\\Código\\TropTech\\C#\\Projetos\\Modulo II\\Projeto_19_08_Camada_DAO\\Aula_11_08_CRUD_Com_SQL_Server\\SeuZeCRUD\\SeuZeCRUD.ConsoleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\joaov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\joaov\\Desktop\\Código\\TropTech\\C#\\Projetos\\Modulo II\\Projeto_19_08_Camada_DAO\\Aula_11_08_CRUD_Com_SQL_Server\\SeuZeCRUD\\SeuZeCRUD.Classes\\SeuZeCRUD.Classes.csproj": {
+                "projectPath": "C:\\Users\\joaov\\Desktop\\Código\\TropTech\\C#\\Projetos\\Modulo II\\Projeto_19_08_Camada_DAO\\Aula_11_08_CRUD_Com_SQL_Server\\SeuZeCRUD\\SeuZeCRUD.Classes\\SeuZeCRUD.Classes.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.13, 5.0.13]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

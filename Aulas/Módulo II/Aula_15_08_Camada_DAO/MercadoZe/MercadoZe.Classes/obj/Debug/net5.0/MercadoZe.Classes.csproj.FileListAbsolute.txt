@@ -1,0 +1,24 @@
+C:\Source\MercadoZe\MercadoZe.Classes\bin\Debug\net5.0\MercadoZe.Classes.deps.json
+C:\Source\MercadoZe\MercadoZe.Classes\bin\Debug\net5.0\MercadoZe.Classes.dll
+C:\Source\MercadoZe\MercadoZe.Classes\bin\Debug\net5.0\MercadoZe.Classes.pdb
+C:\Source\MercadoZe\MercadoZe.Classes\obj\Debug\net5.0\MercadoZe.Classes.csproj.AssemblyReference.cache
+C:\Source\MercadoZe\MercadoZe.Classes\obj\Debug\net5.0\MercadoZe.Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\MercadoZe\MercadoZe.Classes\obj\Debug\net5.0\MercadoZe.Classes.AssemblyInfoInputs.cache
+C:\Source\MercadoZe\MercadoZe.Classes\obj\Debug\net5.0\MercadoZe.Classes.AssemblyInfo.cs
+C:\Source\MercadoZe\MercadoZe.Classes\obj\Debug\net5.0\MercadoZe.Classes.csproj.CoreCompileInputs.cache
+C:\Source\MercadoZe\MercadoZe.Classes\obj\Debug\net5.0\MercadoZe.Classes.dll
+C:\Source\MercadoZe\MercadoZe.Classes\obj\Debug\net5.0\refint\MercadoZe.Classes.dll
+C:\Source\MercadoZe\MercadoZe.Classes\obj\Debug\net5.0\MercadoZe.Classes.pdb
+C:\Source\MercadoZe\MercadoZe.Classes\obj\Debug\net5.0\ref\MercadoZe.Classes.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aulas\Módulo II\Aula_15_08_Camada_DAO\MercadoZe\MercadoZe.Classes\bin\Debug\net5.0\MercadoZe.Classes.deps.json
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aulas\Módulo II\Aula_15_08_Camada_DAO\MercadoZe\MercadoZe.Classes\bin\Debug\net5.0\MercadoZe.Classes.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aulas\Módulo II\Aula_15_08_Camada_DAO\MercadoZe\MercadoZe.Classes\bin\Debug\net5.0\ref\MercadoZe.Classes.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aulas\Módulo II\Aula_15_08_Camada_DAO\MercadoZe\MercadoZe.Classes\bin\Debug\net5.0\MercadoZe.Classes.pdb
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aulas\Módulo II\Aula_15_08_Camada_DAO\MercadoZe\MercadoZe.Classes\obj\Debug\net5.0\MercadoZe.Classes.csproj.AssemblyReference.cache
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aulas\Módulo II\Aula_15_08_Camada_DAO\MercadoZe\MercadoZe.Classes\obj\Debug\net5.0\MercadoZe.Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aulas\Módulo II\Aula_15_08_Camada_DAO\MercadoZe\MercadoZe.Classes\obj\Debug\net5.0\MercadoZe.Classes.AssemblyInfoInputs.cache
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aulas\Módulo II\Aula_15_08_Camada_DAO\MercadoZe\MercadoZe.Classes\obj\Debug\net5.0\MercadoZe.Classes.AssemblyInfo.cs
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aulas\Módulo II\Aula_15_08_Camada_DAO\MercadoZe\MercadoZe.Classes\obj\Debug\net5.0\MercadoZe.Classes.csproj.CoreCompileInputs.cache
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aulas\Módulo II\Aula_15_08_Camada_DAO\MercadoZe\MercadoZe.Classes\obj\Debug\net5.0\MercadoZe.Classes.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aulas\Módulo II\Aula_15_08_Camada_DAO\MercadoZe\MercadoZe.Classes\obj\Debug\net5.0\ref\MercadoZe.Classes.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aulas\Módulo II\Aula_15_08_Camada_DAO\MercadoZe\MercadoZe.Classes\obj\Debug\net5.0\MercadoZe.Classes.pdb

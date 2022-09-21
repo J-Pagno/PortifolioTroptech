@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LRTzmON8qTUgOubxApE2DtxEJ20j9+TsQinZfoV4u0W+HZLQOo2dHie4IBLyuiigaGrDG4138cEKn9DbLBlMEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaov\\Desktop\\Código\\TropTech\\C#\\Aulas\\Módulo II\\Aula_14_06_Validações_E_Controle_de_Fluxo_I\\E01\\E01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

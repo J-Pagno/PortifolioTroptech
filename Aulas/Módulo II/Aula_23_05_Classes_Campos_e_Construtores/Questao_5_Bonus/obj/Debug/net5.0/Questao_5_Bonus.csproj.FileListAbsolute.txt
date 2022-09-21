@@ -1,0 +1,16 @@
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_23_05\Questao_5_Bonus\bin\Debug\net5.0\Questao_5_Bonus.exe
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_23_05\Questao_5_Bonus\bin\Debug\net5.0\Questao_5_Bonus.deps.json
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_23_05\Questao_5_Bonus\bin\Debug\net5.0\Questao_5_Bonus.runtimeconfig.json
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_23_05\Questao_5_Bonus\bin\Debug\net5.0\Questao_5_Bonus.runtimeconfig.dev.json
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_23_05\Questao_5_Bonus\bin\Debug\net5.0\Questao_5_Bonus.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_23_05\Questao_5_Bonus\bin\Debug\net5.0\ref\Questao_5_Bonus.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_23_05\Questao_5_Bonus\bin\Debug\net5.0\Questao_5_Bonus.pdb
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_23_05\Questao_5_Bonus\obj\Debug\net5.0\Questao_5_Bonus.csproj.AssemblyReference.cache
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_23_05\Questao_5_Bonus\obj\Debug\net5.0\Questao_5_Bonus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_23_05\Questao_5_Bonus\obj\Debug\net5.0\Questao_5_Bonus.AssemblyInfoInputs.cache
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_23_05\Questao_5_Bonus\obj\Debug\net5.0\Questao_5_Bonus.AssemblyInfo.cs
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_23_05\Questao_5_Bonus\obj\Debug\net5.0\Questao_5_Bonus.csproj.CoreCompileInputs.cache
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_23_05\Questao_5_Bonus\obj\Debug\net5.0\Questao_5_Bonus.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_23_05\Questao_5_Bonus\obj\Debug\net5.0\ref\Questao_5_Bonus.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_23_05\Questao_5_Bonus\obj\Debug\net5.0\Questao_5_Bonus.pdb
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aula_23_05\Questao_5_Bonus\obj\Debug\net5.0\Questao_5_Bonus.genruntimeconfig.cache

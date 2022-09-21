@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ygPLslhShzDeChON0hKiNrxqLL/ceU6Y3QzHVdsPhOkJm2HkzbAzVPQ0PxLpHJvPE3CXyiWJOyYkt4PWx/rK2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaov\\Desktop\\Código\\TropTech\\C#\\Aula_24_05\\E02\\E02.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

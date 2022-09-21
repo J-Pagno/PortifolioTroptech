@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7daa30c8-e703-4aeb-a900-64c56006c67f": {
+      "ProjectGuid": "7daa30c8-e703-4aeb-a900-64c56006c67f",
+      "DisplayName": "PlanilhaPatricia.Infra.Data",
+      "ColorIndex": 0
+    },
+    "0473a31d-a871-4ef4-bd0c-52bcc4803511": {
+      "ProjectGuid": "0473a31d-a871-4ef4-bd0c-52bcc4803511",
+      "DisplayName": "PlanilhaPatricia.Domain",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "8f742805-3e98-4957-b3c1-72640ce9cac7": {
+      "ProjectGuid": "8f742805-3e98-4957-b3c1-72640ce9cac7",
+      "DisplayName": "PlanilhaPatricia.ConsoleApp",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

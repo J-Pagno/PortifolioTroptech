@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Source\\CSharpSqlServer\\CSharpSqlServer.ConsoleApp\\CSharpSqlServer.ConsoleApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Source\\CSharpSqlServer\\CSharpSqlServer.Classes\\CSharpSqlServer.Classes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Source\\CSharpSqlServer\\CSharpSqlServer.Classes\\CSharpSqlServer.Classes.csproj",
+        "projectName": "CSharpSqlServer.Classes",
+        "projectPath": "C:\\Source\\CSharpSqlServer\\CSharpSqlServer.Classes\\CSharpSqlServer.Classes.csproj",
+        "packagesPath": "C:\\Users\\Sartor\\.nuget\\packages\\",
+        "outputPath": "C:\\Source\\CSharpSqlServer\\CSharpSqlServer.Classes\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sartor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Source\\CSharpSqlServer\\CSharpSqlServer.ConsoleApp\\CSharpSqlServer.ConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Source\\CSharpSqlServer\\CSharpSqlServer.ConsoleApp\\CSharpSqlServer.ConsoleApp.csproj",
+        "projectName": "CSharpSqlServer.ConsoleApp",
+        "projectPath": "C:\\Source\\CSharpSqlServer\\CSharpSqlServer.ConsoleApp\\CSharpSqlServer.ConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\Sartor\\.nuget\\packages\\",
+        "outputPath": "C:\\Source\\CSharpSqlServer\\CSharpSqlServer.ConsoleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sartor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Source\\CSharpSqlServer\\CSharpSqlServer.Classes\\CSharpSqlServer.Classes.csproj": {
+                "projectPath": "C:\\Source\\CSharpSqlServer\\CSharpSqlServer.Classes\\CSharpSqlServer.Classes.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.17, 5.0.17]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_03_06_Loja_de_Roupas\bin\Debug\net5.0\Projeto_03_06_Loja_de_Roupas.exe
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_03_06_Loja_de_Roupas\bin\Debug\net5.0\Projeto_03_06_Loja_de_Roupas.deps.json
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_03_06_Loja_de_Roupas\bin\Debug\net5.0\Projeto_03_06_Loja_de_Roupas.runtimeconfig.json
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_03_06_Loja_de_Roupas\bin\Debug\net5.0\Projeto_03_06_Loja_de_Roupas.runtimeconfig.dev.json
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_03_06_Loja_de_Roupas\bin\Debug\net5.0\Projeto_03_06_Loja_de_Roupas.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_03_06_Loja_de_Roupas\bin\Debug\net5.0\ref\Projeto_03_06_Loja_de_Roupas.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_03_06_Loja_de_Roupas\bin\Debug\net5.0\Projeto_03_06_Loja_de_Roupas.pdb
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_03_06_Loja_de_Roupas\obj\Debug\net5.0\Projeto_03_06_Loja_de_Roupas.csproj.AssemblyReference.cache
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_03_06_Loja_de_Roupas\obj\Debug\net5.0\Projeto_03_06_Loja_de_Roupas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_03_06_Loja_de_Roupas\obj\Debug\net5.0\Projeto_03_06_Loja_de_Roupas.AssemblyInfoInputs.cache
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_03_06_Loja_de_Roupas\obj\Debug\net5.0\Projeto_03_06_Loja_de_Roupas.AssemblyInfo.cs
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_03_06_Loja_de_Roupas\obj\Debug\net5.0\Projeto_03_06_Loja_de_Roupas.csproj.CoreCompileInputs.cache
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_03_06_Loja_de_Roupas\obj\Debug\net5.0\Projeto_03_06_Loja_de_Roupas.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_03_06_Loja_de_Roupas\obj\Debug\net5.0\ref\Projeto_03_06_Loja_de_Roupas.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_03_06_Loja_de_Roupas\obj\Debug\net5.0\Projeto_03_06_Loja_de_Roupas.pdb
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_03_06_Loja_de_Roupas\obj\Debug\net5.0\Projeto_03_06_Loja_de_Roupas.genruntimeconfig.cache

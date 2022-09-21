@@ -1,0 +1,12 @@
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_27_08_Padrões_de_Projeto\ControlesDeGastosAntonio\AntonioGastos.Domain\bin\Release\net5.0\AntonioGastos.Domain.deps.json
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_27_08_Padrões_de_Projeto\ControlesDeGastosAntonio\AntonioGastos.Domain\bin\Release\net5.0\AntonioGastos.Domain.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_27_08_Padrões_de_Projeto\ControlesDeGastosAntonio\AntonioGastos.Domain\bin\Release\net5.0\ref\AntonioGastos.Domain.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_27_08_Padrões_de_Projeto\ControlesDeGastosAntonio\AntonioGastos.Domain\bin\Release\net5.0\AntonioGastos.Domain.pdb
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_27_08_Padrões_de_Projeto\ControlesDeGastosAntonio\AntonioGastos.Domain\obj\Release\net5.0\AntonioGastos.Domain.csproj.AssemblyReference.cache
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_27_08_Padrões_de_Projeto\ControlesDeGastosAntonio\AntonioGastos.Domain\obj\Release\net5.0\AntonioGastos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_27_08_Padrões_de_Projeto\ControlesDeGastosAntonio\AntonioGastos.Domain\obj\Release\net5.0\AntonioGastos.Domain.AssemblyInfoInputs.cache
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_27_08_Padrões_de_Projeto\ControlesDeGastosAntonio\AntonioGastos.Domain\obj\Release\net5.0\AntonioGastos.Domain.AssemblyInfo.cs
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_27_08_Padrões_de_Projeto\ControlesDeGastosAntonio\AntonioGastos.Domain\obj\Release\net5.0\AntonioGastos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_27_08_Padrões_de_Projeto\ControlesDeGastosAntonio\AntonioGastos.Domain\obj\Release\net5.0\AntonioGastos.Domain.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_27_08_Padrões_de_Projeto\ControlesDeGastosAntonio\AntonioGastos.Domain\obj\Release\net5.0\ref\AntonioGastos.Domain.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Projetos\Modulo II\Projeto_27_08_Padrões_de_Projeto\ControlesDeGastosAntonio\AntonioGastos.Domain\obj\Release\net5.0\AntonioGastos.Domain.pdb

@@ -1,0 +1,16 @@
+C:\Users\joaov\Desktop\TropTech\C#\projeto3\bin\Debug\net5.0\projeto3.exe
+C:\Users\joaov\Desktop\TropTech\C#\projeto3\bin\Debug\net5.0\projeto3.deps.json
+C:\Users\joaov\Desktop\TropTech\C#\projeto3\bin\Debug\net5.0\projeto3.runtimeconfig.json
+C:\Users\joaov\Desktop\TropTech\C#\projeto3\bin\Debug\net5.0\projeto3.runtimeconfig.dev.json
+C:\Users\joaov\Desktop\TropTech\C#\projeto3\bin\Debug\net5.0\projeto3.dll
+C:\Users\joaov\Desktop\TropTech\C#\projeto3\bin\Debug\net5.0\ref\projeto3.dll
+C:\Users\joaov\Desktop\TropTech\C#\projeto3\bin\Debug\net5.0\projeto3.pdb
+C:\Users\joaov\Desktop\TropTech\C#\projeto3\obj\Debug\net5.0\projeto3.csproj.AssemblyReference.cache
+C:\Users\joaov\Desktop\TropTech\C#\projeto3\obj\Debug\net5.0\projeto3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\Desktop\TropTech\C#\projeto3\obj\Debug\net5.0\projeto3.AssemblyInfoInputs.cache
+C:\Users\joaov\Desktop\TropTech\C#\projeto3\obj\Debug\net5.0\projeto3.AssemblyInfo.cs
+C:\Users\joaov\Desktop\TropTech\C#\projeto3\obj\Debug\net5.0\projeto3.csproj.CoreCompileInputs.cache
+C:\Users\joaov\Desktop\TropTech\C#\projeto3\obj\Debug\net5.0\projeto3.dll
+C:\Users\joaov\Desktop\TropTech\C#\projeto3\obj\Debug\net5.0\ref\projeto3.dll
+C:\Users\joaov\Desktop\TropTech\C#\projeto3\obj\Debug\net5.0\projeto3.pdb
+C:\Users\joaov\Desktop\TropTech\C#\projeto3\obj\Debug\net5.0\projeto3.genruntimeconfig.cache

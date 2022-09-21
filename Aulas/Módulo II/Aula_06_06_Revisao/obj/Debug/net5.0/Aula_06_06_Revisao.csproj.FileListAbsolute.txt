@@ -1,0 +1,16 @@
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aulas\Módulo II\Aula_06_06_Revisao\bin\Debug\net5.0\Aula_06_06_Revisao.exe
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aulas\Módulo II\Aula_06_06_Revisao\bin\Debug\net5.0\Aula_06_06_Revisao.deps.json
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aulas\Módulo II\Aula_06_06_Revisao\bin\Debug\net5.0\Aula_06_06_Revisao.runtimeconfig.json
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aulas\Módulo II\Aula_06_06_Revisao\bin\Debug\net5.0\Aula_06_06_Revisao.runtimeconfig.dev.json
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aulas\Módulo II\Aula_06_06_Revisao\bin\Debug\net5.0\Aula_06_06_Revisao.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aulas\Módulo II\Aula_06_06_Revisao\bin\Debug\net5.0\ref\Aula_06_06_Revisao.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aulas\Módulo II\Aula_06_06_Revisao\bin\Debug\net5.0\Aula_06_06_Revisao.pdb
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aulas\Módulo II\Aula_06_06_Revisao\obj\Debug\net5.0\Aula_06_06_Revisao.csproj.AssemblyReference.cache
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aulas\Módulo II\Aula_06_06_Revisao\obj\Debug\net5.0\Aula_06_06_Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aulas\Módulo II\Aula_06_06_Revisao\obj\Debug\net5.0\Aula_06_06_Revisao.AssemblyInfoInputs.cache
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aulas\Módulo II\Aula_06_06_Revisao\obj\Debug\net5.0\Aula_06_06_Revisao.AssemblyInfo.cs
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aulas\Módulo II\Aula_06_06_Revisao\obj\Debug\net5.0\Aula_06_06_Revisao.csproj.CoreCompileInputs.cache
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aulas\Módulo II\Aula_06_06_Revisao\obj\Debug\net5.0\Aula_06_06_Revisao.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aulas\Módulo II\Aula_06_06_Revisao\obj\Debug\net5.0\ref\Aula_06_06_Revisao.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aulas\Módulo II\Aula_06_06_Revisao\obj\Debug\net5.0\Aula_06_06_Revisao.pdb
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aulas\Módulo II\Aula_06_06_Revisao\obj\Debug\net5.0\Aula_06_06_Revisao.genruntimeconfig.cache

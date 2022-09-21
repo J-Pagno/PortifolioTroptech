@@ -1,0 +1,16 @@
+C:\Users\joaov\Desktop\TropTech\teste1\obj\Debug\net5.0\teste1.csproj.AssemblyReference.cache
+C:\Users\joaov\Desktop\TropTech\teste1\obj\Debug\net5.0\teste1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\Desktop\TropTech\teste1\obj\Debug\net5.0\teste1.AssemblyInfoInputs.cache
+C:\Users\joaov\Desktop\TropTech\teste1\obj\Debug\net5.0\teste1.AssemblyInfo.cs
+C:\Users\joaov\Desktop\TropTech\teste1\obj\Debug\net5.0\teste1.csproj.CoreCompileInputs.cache
+C:\Users\joaov\Desktop\TropTech\teste1\bin\Debug\net5.0\teste1.exe
+C:\Users\joaov\Desktop\TropTech\teste1\bin\Debug\net5.0\teste1.deps.json
+C:\Users\joaov\Desktop\TropTech\teste1\bin\Debug\net5.0\teste1.runtimeconfig.json
+C:\Users\joaov\Desktop\TropTech\teste1\bin\Debug\net5.0\teste1.runtimeconfig.dev.json
+C:\Users\joaov\Desktop\TropTech\teste1\bin\Debug\net5.0\teste1.dll
+C:\Users\joaov\Desktop\TropTech\teste1\bin\Debug\net5.0\ref\teste1.dll
+C:\Users\joaov\Desktop\TropTech\teste1\bin\Debug\net5.0\teste1.pdb
+C:\Users\joaov\Desktop\TropTech\teste1\obj\Debug\net5.0\teste1.dll
+C:\Users\joaov\Desktop\TropTech\teste1\obj\Debug\net5.0\ref\teste1.dll
+C:\Users\joaov\Desktop\TropTech\teste1\obj\Debug\net5.0\teste1.pdb
+C:\Users\joaov\Desktop\TropTech\teste1\obj\Debug\net5.0\teste1.genruntimeconfig.cache

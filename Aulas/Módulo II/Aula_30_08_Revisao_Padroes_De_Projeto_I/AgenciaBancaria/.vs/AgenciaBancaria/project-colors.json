@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "421cad4e-fde0-4d25-8b0d-2904852a0400": {
+      "ProjectGuid": "421cad4e-fde0-4d25-8b0d-2904852a0400",
+      "DisplayName": "AgenciaBancaria.Infra.Data",
+      "ColorIndex": 0
+    },
+    "830732f2-e5a0-4e6f-b07e-c462f7acd533": {
+      "ProjectGuid": "830732f2-e5a0-4e6f-b07e-c462f7acd533",
+      "DisplayName": "AgenciaBancaria.Domain",
+      "ColorIndex": 1
+    },
+    "45d802e4-b2d5-4a32-aedc-42511f178c23": {
+      "ProjectGuid": "45d802e4-b2d5-4a32-aedc-42511f178c23",
+      "DisplayName": "AgenciaBancaria.ConsoleApp",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

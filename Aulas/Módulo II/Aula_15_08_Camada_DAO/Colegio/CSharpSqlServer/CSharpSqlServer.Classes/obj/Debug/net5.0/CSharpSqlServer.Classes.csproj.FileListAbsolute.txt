@@ -1,0 +1,12 @@
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aulas\Módulo II\Aula_15_08_Camada_DAO\Colegio\CSharpSqlServer\CSharpSqlServer.Classes\bin\Debug\net5.0\CSharpSqlServer.Classes.deps.json
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aulas\Módulo II\Aula_15_08_Camada_DAO\Colegio\CSharpSqlServer\CSharpSqlServer.Classes\bin\Debug\net5.0\CSharpSqlServer.Classes.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aulas\Módulo II\Aula_15_08_Camada_DAO\Colegio\CSharpSqlServer\CSharpSqlServer.Classes\bin\Debug\net5.0\ref\CSharpSqlServer.Classes.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aulas\Módulo II\Aula_15_08_Camada_DAO\Colegio\CSharpSqlServer\CSharpSqlServer.Classes\bin\Debug\net5.0\CSharpSqlServer.Classes.pdb
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aulas\Módulo II\Aula_15_08_Camada_DAO\Colegio\CSharpSqlServer\CSharpSqlServer.Classes\obj\Debug\net5.0\CSharpSqlServer.Classes.csproj.AssemblyReference.cache
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aulas\Módulo II\Aula_15_08_Camada_DAO\Colegio\CSharpSqlServer\CSharpSqlServer.Classes\obj\Debug\net5.0\CSharpSqlServer.Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aulas\Módulo II\Aula_15_08_Camada_DAO\Colegio\CSharpSqlServer\CSharpSqlServer.Classes\obj\Debug\net5.0\CSharpSqlServer.Classes.AssemblyInfoInputs.cache
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aulas\Módulo II\Aula_15_08_Camada_DAO\Colegio\CSharpSqlServer\CSharpSqlServer.Classes\obj\Debug\net5.0\CSharpSqlServer.Classes.AssemblyInfo.cs
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aulas\Módulo II\Aula_15_08_Camada_DAO\Colegio\CSharpSqlServer\CSharpSqlServer.Classes\obj\Debug\net5.0\CSharpSqlServer.Classes.csproj.CoreCompileInputs.cache
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aulas\Módulo II\Aula_15_08_Camada_DAO\Colegio\CSharpSqlServer\CSharpSqlServer.Classes\obj\Debug\net5.0\CSharpSqlServer.Classes.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aulas\Módulo II\Aula_15_08_Camada_DAO\Colegio\CSharpSqlServer\CSharpSqlServer.Classes\obj\Debug\net5.0\ref\CSharpSqlServer.Classes.dll
+C:\Users\joaov\Desktop\Código\TropTech\C#\Aulas\Módulo II\Aula_15_08_Camada_DAO\Colegio\CSharpSqlServer\CSharpSqlServer.Classes\obj\Debug\net5.0\CSharpSqlServer.Classes.pdb

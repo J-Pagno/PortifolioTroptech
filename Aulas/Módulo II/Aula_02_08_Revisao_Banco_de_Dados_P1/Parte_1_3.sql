@@ -1,0 +1,15 @@
+USE TropTechModasDB;
+
+-- 1)
+SELECT C.Nome, E.*
+FROM CLIENTES C INNER JOIN ENDERECO E ON (C.EnderecoId = E.Id);
+
+SELECT Nome, EnderecoId AS SemEndereço FROM CLIENTES WHERE EnderecoId IS NULL;
+
+-- 2)
+
+SELECT * FROM CLIENTES WHERE Nome LIKE 'Nil%';
+
+--3) 
+
+SELECT * FROM CLIENTES WHERE Nome LIKE '%a%';
